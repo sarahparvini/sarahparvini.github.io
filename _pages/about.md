@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Sarah's Photo](Sarah.jpg)
 
 # Hi, I'm Sarah 👋
 
