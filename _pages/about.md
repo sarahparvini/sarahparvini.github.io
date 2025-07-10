@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Sarah's Photo](Sarah.jpg)
-
 # Hi, I'm Sarah 👋
 
 Mom of 2 kiddos, best home chef award winner (well, by my husband and daughter), I love movies and music and a good daily laugh. I also happen to be an experienced Industrial Engineer.
